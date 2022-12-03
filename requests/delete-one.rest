@@ -1,0 +1,11 @@
+DELETE http://localhost:3001/api/security
+
+###
+DELETE http://localhost:3001/api/security/638207d4e2e917e0e12c380e
+Content-Type: application/json
+
+{
+
+"userId":"638207d4e2e917e0e12c380e"
+
+}

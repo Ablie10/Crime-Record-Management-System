@@ -1,0 +1,22 @@
+POST http://localhost:3001/api/user HTTP/1.1
+Content-Type: application/json
+
+{
+    "email":"bappebah15@gmail.com",
+    "password":"secret",
+    "firstname": "ablie",
+    "lastname":"bah"
+}
+###
+
+POST http://localhost:3001/api/user HTTP/1.1
+Content-Type: application/json
+
+{
+
+    "email":"bappebah15@gmail.com",
+    "password":"secret",
+    
+     "userId": "6381fa1584f389f2b1214191"
+
+}

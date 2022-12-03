@@ -1,0 +1,13 @@
+GET  http://localhost:3001/api/security
+content-type: application/json 
+
+
+###
+GET  http://localhost:3001/api/security
+content-type: application/json 
+
+{
+        
+        "userId": "6381fa1584f389f2b1214191"
+        
+    }
